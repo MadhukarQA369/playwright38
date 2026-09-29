@@ -1,0 +1,23 @@
+{
+  "name": "playwright38",
+  "version": "1.0.0",
+  "description": "training project",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MadhukarQA369/playwright38.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/MadhukarQA369/playwright38/issues"
+  },
+  "homepage": "https://github.com/MadhukarQA369/playwright38#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^26.6.3"
+  }
+}
